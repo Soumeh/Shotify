@@ -1,13 +1,28 @@
 {
-  "shotify.text.content": "Screenshot Taken!",
+  "shotify.text.taken": "Saved screenshot",
   "shotify.text.open_folder": "Open Folder",
   "shotify.text.open_image": "Open Image",
+  "shotify.text.copy_image": "Copy Image",
+
+  "shotify.text.uploading": "Uploading screenshot...",
+  "shotify.text.uploaded": "Uploaded screenshot",
   "shotify.text.copy_url": "Copy Link",
   "shotify.text.share_twitter": "Share on Twitter",
 
   "shotify.share.twitter.content": "Look at this screenshot I took on Minecraft!",
-
+  
   "shotify.config.title": "Shotify",
+
+  "shotify.config.category.general": "Screenshotting",
+  "shotify.config.copy_screenshot.name": "Automatic Gopy Screenshot to Clipboard",
+  "shotify.config.copy_screenshot.description": "Automagically copies the Screenshot to the clipboard."
+  "shotify.config.open_folder_button.name": "Show Open Folder Button",
+  "shotify.config.open_folder_button.description": "Whether or not to show the Open Folder button."
+  "shotify.config.open_image_button.name": "Show Open Image Button",
+  "shotify.config.open_image_button.description": "Whether or not to show the Open Image button."
+  "shotify.config.copy_image_button.name": "Show Copy Image Button",
+  "shotify.config.copy_image_button.description": "Whether or not to show the Copy Image button."
+  
   "shotify.config.category.rendering": "Rendering",
   "shotify.config.render_preview.name": "Render Preview",
   "shotify.config.render_preview.description": "Render the screenshot preview before.",
@@ -19,11 +34,14 @@
   "shotify.config.preview_direction.bottom_right": "Bottom Right",
   "shotify.config.preview_time.name": "Preview Time",
   "shotify.config.preview_time.description": "How long to show the screenshot preview.",
-  "shotify.config.category.upload": "Uploading",
-  "shotify.config.upload_imgur.name": "Upload To Imgur",
-  "shotify.config.upload_imgur.description": "Uploads the screenshot to Imgur.",
-  "shotify.config.copy_upload_clipboard.name": "Copy URL to Clipboard",
-  "shotify.config.copy_upload_clipboard.description": "Copies the URL to the clipboard.",
 
-  "shotify.update.available": "A Shotify update is available: "
+  "shotify.config.category.upload": "Uploading",
+  "shotify.config.upload_imgur.name": "Automatic Upload To Imgur",
+  "shotify.config.upload_imgur.description": "Automagically uploads the screenshot to Imgur.",
+  "shotify.config.copy_upload.name": "Automatic Copy URL to Clipboard",
+  "shotify.config.copy_upload.description": "Automagically copies the URL to the clipboard.",
+  "shotify.config.copy_url_button.name": "Show Copy URL Button",
+  "shotify.config.copy_url_button.description": "Whether or not to show the Copy URL button."
+  "shotify.config.share_on_twitter_button.name": "Show Share on Twitter Button",
+  "shotify.config.share_on_twitter_button.description": "Whether or not to show the Share on Twitter button."
 }
