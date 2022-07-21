@@ -13,7 +13,7 @@
   
   "shotify.config.title": "Shotify",
 
-  "shotify.config.category.general": "Screenshotting",
+  "shotify.config.category.screenshot": "Screenshots",
   "shotify.config.copy_screenshot.name": "Automatic Gopy Screenshot to Clipboard",
   "shotify.config.copy_screenshot.description": "Automagically copies the Screenshot to the clipboard."
   "shotify.config.open_folder_button.name": "Show Open Folder Button",
@@ -23,7 +23,7 @@
   "shotify.config.copy_image_button.name": "Show Copy Image Button",
   "shotify.config.copy_image_button.description": "Whether or not to show the Copy Image button."
   
-  "shotify.config.category.rendering": "Rendering",
+  "shotify.config.category.render": "Rendering",
   "shotify.config.render_preview.name": "Render Preview",
   "shotify.config.render_preview.description": "Render the screenshot preview before.",
   "shotify.config.preview_direction.name": "Preview Direction",
